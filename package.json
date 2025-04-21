@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Joshil S Abraham | Portfolio",
   "source": "src/index.html",
-  "homepage": "https://mighty070jail.github.io/portfolio",
+  "homepage": "https://joshilsabraham.github.io/portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://mighty070jailgithub.io/portfolio'",
+    "build-gh": "parcel build --public-url 'https://joshilsabraham.github.io/portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
