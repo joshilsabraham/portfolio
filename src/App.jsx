@@ -27,7 +27,7 @@ const siteProps = {
   name: "Joshil S Abraham",
   title: "Student Developer",
   email: "joshilsabraham06@gmail.com",
-  gitHub: "mighty070jail",
+  gitHub: "joshilsabraham",
   instagram: "_joshilsabraham",
   linkedIn: "joshil-s-abraham",
   medium: "",
